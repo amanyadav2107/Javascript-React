@@ -1,0 +1,19 @@
+.container{
+  text-align: center;
+}
+.Student-card{
+  height: 25vh;
+  width: 25vw;
+  margin: auto ;
+  padding:7px;
+  box-shadow: 0px 4px 10px rgba(0,0,0,0.4);
+  margin-top: 10px;
+  border-radius: 1rem;
+  background-color: aqua;
+}
+h2{
+  color:rgba(0, 0, 128, 0.727);
+}
+p{
+  font-weight: 550;
+}
