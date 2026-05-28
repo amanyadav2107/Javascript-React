@@ -1,0 +1,29 @@
+.container{
+  text-align: center;
+  padding: 10px;
+  height: 25vh;
+  width: 25vw;
+  background-color: rgb(68, 254, 17) ;
+  margin: auto;
+  box-shadow: 0 40px 40px rgb(255, 0, 0);
+  border-radius: 1rem;
+
+}
+
+button{
+  margin: 10px;
+  height:30px;
+  font-weight: 800;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  border-radius: 1rem;
+  background-color: bisque;
+}
+
+p{
+  font-size: 17px;
+  font-weight: bolder;
+}
+
+span{
+  color:red ;
+}
